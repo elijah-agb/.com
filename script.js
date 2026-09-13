@@ -15,7 +15,7 @@ if (termBody) {
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const lines = [
     { p: '$ ', t: 'whoami' },
-    { p: '', t: 'jordan-ade — full-stack developer' },
+    { p: '', t: 'Elijah_Agb — full-stack developer' },
     { p: '', t: '' },
     { p: '$ ', t: 'status' },
     { p: '', t: 'open for new projects' }
